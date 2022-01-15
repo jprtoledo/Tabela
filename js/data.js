@@ -1,83 +1,83 @@
 let pilots = [
     {
         "pilot": "bottas",
-        "points": 1
+        "points": 39
     },
     {
         "pilot": "breno",
-        "points": 100
+        "points": 103
     },
     {
         "pilot": "eric",
-        "points": 11
+        "points": 0
     },
     {
         "pilot": "gasly",
-        "points": 10
+        "points": 24
     },
     {
         "pilot": "giovenazzi",
-        "points": 10
+        "points": 16
     },
     {
         "pilot": "grosjean",
-        "points": 10
+        "points": 1
     },
     {
         "pilot": "juan",
-        "points": 10
+        "points": 89
     },
     {
         "pilot": "kimi",
-        "points": 10
+        "points": 3
     },
     {
         "pilot": "kvyat",
-        "points": 10
+        "points": 13
     },
     {
         "pilot": "lafiti",
-        "points": 10
+        "points": 0
     },
     {
         "pilot": "lance",
-        "points": 10
+        "points": 50
     },
     {
         "pilot": "luciano",
-        "points": 10
+        "points": 12
     },
     {
         "pilot": "magnussen",
-        "points": 10
+        "points": 12
     },
     {
         "pilot": "ocon",
-        "points": 10
+        "points": 63
     },
     {
         "pilot": "paulo",
-        "points": 10
+        "points": 144
     },
     {
         "pilot": "ricciardo",
-        "points": 10
+        "points": 24
     },
     {
         "pilot": "russell",
-        "points": 10
+        "points": 20
     },
     {
         "pilot": "sainz",
-        "points": 10
+        "points": 40
     },
     {
         "pilot": "sergio",
-        "points": 10
+        "points": 12
     },
     {
         "pilot": "vinicios",
-        "points": 10
+        "points": 113
     }
 ];
 
