@@ -3,6 +3,8 @@
 }
 
 .centeredLeft {
+    Font-size: 22px;
+    Font-family: azonix;
     position: absolute;
     top: 50%;
     left: 71.15%;
@@ -10,6 +12,9 @@
 }
 
 .centeredRight {
+    width: 16px;
+    Font-size: 20px;
+    Font-family: azonix;
     position: absolute;
     top: 45%;
     right: 73.5%;
