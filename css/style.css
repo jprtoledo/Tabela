@@ -1,5 +1,14 @@
 .tabela {
-    width: 51%;
+    width: 50%;
+    float: left;
+}
+
+.pilotos {
+    width: 100%;
+}
+
+.formulario {
+    float: right;
 }
 
 .centeredLeft {
@@ -7,7 +16,7 @@
     Font-family: azonix;
     position: absolute;
     top: 50%;
-    left: 71.15%;
+    left: 91.55%;
     transform: translate(-50%, -50%);
 }
 
@@ -17,7 +26,7 @@
     Font-family: azonix;
     position: absolute;
     top: 45%;
-    right: 73.5%;
+    right: 95.5%;
     transform: translate(-50%, -50%);
     color: white;
 }

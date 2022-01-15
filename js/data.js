@@ -1,4 +1,4 @@
-const pilots = [
+let pilots = [
     {
         "pilot": "bottas",
         "points": 1
